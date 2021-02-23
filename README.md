@@ -10,7 +10,7 @@
 
 ## 📝Sobre
 
-O projeto **DevFinance** é um gerenciador de finanças desenvolvido pela Rockseat na semana **discover** com intuito de práticar a base do desenvolvimento Web.
+O projeto **DevFinance** é um gerenciador de finanças desenvolvido pela Rocketseat na semana **discover** com intuito de práticar a base do desenvolvimento Web.
 Foi explorada toda a semântica html para melhora o **SEO** do google.
 
 ---
@@ -40,4 +40,4 @@ abra o arquivo index.html no browser
 
 ---
 
-🔥Desenvolvido por ****_Jonyelson Lopes_****
+🔥Desenvolvido por \***\*_Jonyelson Lopes_\*\***
